@@ -10,4 +10,4 @@ It shows all the steps done and the visualisation of all the constituency and de
 
 # Report 
 
-The report of this project is the [L95_gd489.pdf](../tree/master/L95_gd489.pdf) file.
+The report of this project is the [L95_gd489.pdf](L95_gd489.pdf) file.
